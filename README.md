@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dũng Trần
-#### I am a JS Fullstack Developer with 10 years of experience. 
+#### I am a Senior Fullstack Developer with 10 years of experience. 
 
 I am working on a variety of different javascript-related projects - websites, single-page applications, mobile applications,
 
